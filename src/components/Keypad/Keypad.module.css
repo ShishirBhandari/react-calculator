@@ -1,0 +1,12 @@
+.Keypad {
+    text-align: center;
+    background-color: lightgray;
+
+    padding: 10px 10px;
+    /* line-height: 0px; */
+    font-size: 50px;
+    width: 90%;
+    border: 5px solid black;
+    border-radius: 2px;
+
+}

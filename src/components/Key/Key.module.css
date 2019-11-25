@@ -1,0 +1,17 @@
+.Key {
+    display: inline-block;
+    width: 20%;
+    margin: 1%;
+    padding: 3% 1%;
+    text-align: center;
+    color: darkblue;
+    font-size: 30px;
+    border-radius: 5px;
+    background-color: lightcyan;
+    box-shadow: 5px 5px darkgrey;
+}
+
+.Key:hover {
+    background-color: lightblue;
+    box-shadow: 5px 5px grey;
+}

@@ -1,5 +1,13 @@
 .App {
   text-align: center;
+  width: 50%;
+  min-width: 600px;
+  margin: auto;
+  font-family: 'Orbitron', sans-serif;
+}
+
+.App h2 {
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .App-logo {

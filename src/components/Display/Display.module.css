@@ -1,0 +1,12 @@
+.display {
+    text-align: right;
+    color: black;
+    padding: 20px 10px;
+
+    line-height: 0px;
+    font-size: 30px;
+    width: 90%;
+    border: 5px solid black;
+    border-radius: 2px;
+    background-color: rgba(134, 206, 165, 0.7);
+}
